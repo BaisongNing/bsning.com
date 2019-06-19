@@ -4,8 +4,7 @@ title: "Baisong Ning|宁柏松"
 theme: "hugo-ivy"
 canonifyurls: true
 relativeurls: true
-googleAnalytics: "UA-141601756-2"
-disqusShortname: "hongyuanjia"
+disqusShortname: "bsing"
 ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
 hasCJKLanguage: true
 enableEmoji: true
